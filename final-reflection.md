@@ -1,4 +1,4 @@
-##Mission 1 to Mission 10 – Enterprise Cloud Architect
+Mission 1 to Mission 10 – Enterprise Cloud Architect
 
 Throughout the ten missions, I gained knowledge and experience in cloud computing, starting from learning basic Linux commands to understanding how to build and manage a complete cloud infrastructure. Each activity helped me improve my technical skills and understand the importance of networking, server management, security, and automation.
 
