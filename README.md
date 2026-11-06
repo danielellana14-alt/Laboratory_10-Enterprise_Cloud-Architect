@@ -20,7 +20,7 @@ CCM101 — Cloud Computing
 
 
 ## Quick Deploy
-git clone https://github.com/vidadmikaelaa-ctrl/Laboratory-10-Enterprise-Cloud-Architect.git
+git clone https://github.com/danielellana14-alt/Laboratory-10-Enterprise-Cloud-Architect.git
 cd Laboratory-10-Enterprise-Cloud-Architect
 docker compose up -d
 docker compose ps
